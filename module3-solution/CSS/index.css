@@ -1,0 +1,41 @@
+body {
+  margin:0;
+  box-sizing:border-box;
+  width:100%;
+}
+
+h1, .navbar-brand, li {
+	font-family:Helvetica;
+}
+
+li {
+  background-color:red;
+  text-decoration:none;
+}
+
+#menuContent {
+  height:1000px;
+  background-color:blue;
+  margin:10px;
+}
+
+#myNavbar {
+  line-height:30px;
+  color:white;
+}
+
+.div1, .div2, .div3 {
+  background-color:black;
+  color:white;
+  font-weight:300;
+  border: 10px solid white
+}
+
+.div1content, .div2content, .div3content {
+  padding-bottom:10px;
+}
+
+a {
+  color:red;
+  font-weight:700;
+}
